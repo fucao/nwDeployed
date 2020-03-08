@@ -1,0 +1,9 @@
+*.o
+*~
+
+lib*/*.dll
+bin*/*.lib
+*.exp
+*.ilk
+*.pdb
+*.7z
